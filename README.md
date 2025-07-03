@@ -57,10 +57,10 @@ Please ensure any contributions align with the project's guidelines and code of 
 
 ## License
 
-MySocials is licensed under the [GPL-3.0 license](https://github.com/r2hu1/mysocials/#GPL-3.0-1-ov-file).
+MySocials is licensed under the [GPL-3.0 license](https://github.com/am-abdulmueed/mysocials/#GPL-3.0-1-ov-file).
 
 ## Support
 
-For any questions, issues, or support, feel free to contact [Abdul Mueed](https://rahul.eu.org).
+For any questions, issues, or support, feel free to contact [Abdul Mueed](https://am-abdulmueed.vercel.app/).
 
 Thank you for using MySocials! We hope it simplifies your social media presence.
